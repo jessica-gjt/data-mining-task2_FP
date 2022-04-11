@@ -6,9 +6,13 @@
 
 自行导入[Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
 
-#### 分析程序Jupyter Notebook
+#### 代码Jupyter Notebook：包括数据处理和关联规则挖掘
 
 - task2_wine-reviews.ipynb
+
+#### 挖掘过程报告
+
+- task2_wine-reviews - Jupyter Notebook.pdf
 
 #### 运行说明
 
